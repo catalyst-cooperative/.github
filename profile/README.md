@@ -42,17 +42,18 @@ frequently collaborate with open source contributors.
   in Python.
 * [Dask](https://www.dask.org/) to scale up data wrangling tasks we do with Pandas
   beyond what can be done in memory.
-* [Dagster](https://dagster.io) for orchestrating and parellelizing our data pipelines.
-* [SQLite](https://www.sqlite.org/) for local storage and distribution of 
+* [Dagster](https://dagster.io) for orchestrating and parallelizing our data pipelines.
+* [SQLite](https://www.sqlite.org/) for local storage and distribution of tabular,
+  relational data.
 * [Apache Parquet](https://parquet.apache.org/) to persist larger data tables to disk.
 * [JupyterLab](https://jupyter.org/) for interactive data wrangling, exploration, and
   visualizations.
 * [Pydantic](https://pydantic-docs.helpmanual.io/) for managing and validating settings
   and our collection of metadata.
 * [Scikit Learn](https://scikit-learn.org/) for entity matching between datasets and
-  imputation of missing of missing data.
-* [Intake Data Catalogs](https://github.com/intake/intake) allows users to install our
-  versioned data products like software, with their own data and software dependencies.
+  imputation of missing data.
+* [Intake Data Catalogs](https://github.com/intake/intake) to distribute
+  versioned data like software via [https://github.com/conda-forge](conda forge)
 * [Google BigQuery](https://cloud.google.com/bigquery) to warehouse finished data
   products for live access.
 * [Zenodo](https://zenodo.org/communities/catalyst-cooperative/) provides long-term,
@@ -66,11 +67,11 @@ frequently collaborate with open source contributors.
   interchange model for tabular data.
 * [Tableau](https://www.tableau.com/) for producing dashboards and interactive data
   visualizations for client projects.
-* [VS Code](https://code.visualstudio.com/) our primary main code editor, ever more
+* [VS Code](https://code.visualstudio.com/) is our primary main code editor, ever more
   deeply integrated with GitHub.
 * [pre-commit](https://pre-commit.com/) to enforce code formatting and style standards.
-* [GitHub Actions](https://docs.github.com/en/actions) runs our continuous integration,
-  and coordinates our nightly builds and data scraping jobs.
+* We use [GitHub Actions](https://docs.github.com/en/actions) to run our continuous
+  integration and coordinate our nightly builds and data scraping jobs.
 
 ## Tools we're studying :construction:
 * [duckdb](https://duckdb.org/) as a performant, columnar, analysis oriented alternative
@@ -138,4 +139,5 @@ provide a monthly health insurance stipend.
 Candidates must do at least 500 hours of contract work for the cooperative over
 six months prior to being considered for membership.
 
-[Check if we're recruiting new members](https://catalyst.coop/work-with-us/).
+**[Check our website to see if we're recruiting new
+members](https://catalyst.coop/work-with-us/)**.
