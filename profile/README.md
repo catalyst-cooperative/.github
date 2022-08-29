@@ -106,7 +106,7 @@ frequently collaborate with open source contributors.
 * [The Open Energy Modeling Initiative](https://openmod-initiative.org/)
 * [The Open Energy Outlook](https://github.com/TemoaProject/oeo)
 * [Code for Science & Society](https://codeforscience.org/)
-* [The Fiqus Cooperative](https://github.com/fiqus)
+* [Technology Cooperatives Everywhere!](https://tech-coops.xyz/)
 
 ## Current & Past Funders and Clients :moneybag: :dollar:
 
