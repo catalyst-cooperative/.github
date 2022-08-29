@@ -14,7 +14,7 @@ Email [hello@catalyst.coop](mailto:hello@catalyst.coop). Our current rate is
 **$150/hr**. We can often make acommodations for smaller/grassroots organizations and
 frequently collaborate with open source contributors.
 
-## Contact Us
+## Contact Us :love_letter:
 * For general support, questions, or other conversations about our work
   that might be of interest to others, head over to our
   [GitHub Discussions](https://github.com/orgs/catalyst-cooperative/discussions)
@@ -36,7 +36,7 @@ frequently collaborate with open source contributors.
 * Translation of existing ad-hoc data wrangling workflows into replicable data pipelines
   written in Python.
 
-## Tools we use
+## Tools we use :hammer: :wrench:
 * [Python](https://www.python.org/) is our primary language for everything.
 * [Pandas](https://pandas.pydata.org/) the swiss army knife of tabular data manipulation
   in Python.
@@ -72,7 +72,7 @@ frequently collaborate with open source contributors.
 * [GitHub Actions](https://docs.github.com/en/actions) runs our continuous integration,
   and coordinates our nightly builds and data scraping jobs.
 
-## Tools we're studying
+## Tools we're studying :construction:
 * [duckdb](https://duckdb.org/) as a performant, columnar, analysis oriented alternative
   to SQLite.
 * [dbt](https://www.getdbt.com/) to manage pure SQL data transformations where
@@ -86,13 +86,13 @@ frequently collaborate with open source contributors.
 * [SQLModel](https://sqlmodel.tiangolo.com/) to more easily unify our metadata and
   database schema definitions with [SQLAlchemy](https://www.sqlalchemy.org/).
 
-## Research Collaborators
+## Research Collaborators :brain:
 * @gschivley and the [PowerGenome](https://github.com/PowerGenome/PowerGenome) project.
 * @grgmiller at UC Davis through the EPA's [EmPOWER Air Data Challenge](https://www.epa.gov/airmarkets/empower-air-data-challenge).
 * @raininthesun and the [Chu Data Lab](https://chu-data-lab.cc.gatech.edu/) at Georgia Tech.
 * [DSIRE at North Carolina State University](https://www.dsireusa.org/)
 
-## Some of our organizational friends :hearts:
+## Some of our organizational friends :revolving_hearts:
 
 * [The Environmental and Data Governance Initiative](https://envirodatagov.org/) (EDGI)
 * [CarbonPlan](https://carbonplan.org/)
@@ -107,7 +107,7 @@ frequently collaborate with open source contributors.
 * [Code for Science & Society](https://codeforscience.org/)
 * [The Fiqus Cooperative](https://github.com/fiqus)
 
-## Current & Past Funders and Clients
+## Current & Past Funders and Clients :moneybag: :dollar:
 
 * [The Alfred P. Sloan Foundation Energy & Environment Program](https://sloan.org/programs/research/energy-and-environment)
 * [Climate Change AI](https://www.climatechange.ai/)
@@ -116,7 +116,7 @@ frequently collaborate with open source contributors.
 * [Invenia Labs](https://www.invenia.ca/)
 * [Western Interstate Energy Board](https://www.westernenergyboard.org/)
 
-## Business and Employment
+## Business and Employment :evergreen_tree: :evergreen_tree:
 
 Catalyst is a [democratically goverened worker cooperative](https://institute.coop/) and
 a member of the [US Federation of Worker Cooperatives](https://usworker.coop).
@@ -134,3 +134,8 @@ Members are compensated through:
 
 We also reimburse members for expenses related to maintaining their home office, and
 provide a monthly health insurance stipend.
+
+Candidates must do at least 500 hours of contract work for the cooperative over
+six months prior to being considered for membership.
+
+[Check if we're recruiting new members](https://catalyst.coop/work-with-us/).
