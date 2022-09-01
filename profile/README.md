@@ -96,7 +96,9 @@ frequently collaborate with open source contributors.
 * **[@raininthesun](https://github.com/raininthesun)** and the [Chu Data Lab](https://chu-data-lab.cc.gatech.edu/) at Georgia Tech.
 * [DSIRE](https://www.dsireusa.org/) at North Carolina State University
 * [Singularity Energy](https://singularity.energy/) and their [Open Grid Emissions
-  Initiative](https://medium.com/singularity-energy/introducing-the-open-grid-emissions-initiative-42f68f3b3f49)
+  Initiative](https://github.com/singularity-energy/open-grid-emissions) ([blog
+  announcing the
+  project](https://medium.com/singularity-energy/introducing-the-open-grid-emissions-initiative-42f68f3b3f49))
 
 ## Organizational Friends & Allies :revolving_hearts:
 
