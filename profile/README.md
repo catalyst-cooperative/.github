@@ -53,7 +53,7 @@ frequently collaborate with open source contributors.
 * [Scikit Learn](https://scikit-learn.org/) for entity matching between datasets and
   imputation of missing data.
 * [Intake Data Catalogs](https://github.com/intake/intake) to distribute
-  versioned data like software via [https://github.com/conda-forge](conda forge)
+  versioned data like software via [conda forge](https://github.com/conda-forge)
 * [Google BigQuery](https://cloud.google.com/bigquery) to warehouse finished data
   products for live access.
 * [Zenodo](https://zenodo.org/communities/catalyst-cooperative/) provides long-term,
@@ -88,12 +88,12 @@ frequently collaborate with open source contributors.
   database schema definitions with [SQLAlchemy](https://www.sqlalchemy.org/).
 
 ## Research Collaborators :brain:
-* @gschivley and the [PowerGenome](https://github.com/PowerGenome/PowerGenome) project.
-* @grgmiller at UC Davis through the EPA's [EmPOWER Air Data Challenge](https://www.epa.gov/airmarkets/empower-air-data-challenge).
-* @raininthesun and the [Chu Data Lab](https://chu-data-lab.cc.gatech.edu/) at Georgia Tech.
+* **[@gschivley](https://github.com/gschivley)** and the [PowerGenome](https://github.com/PowerGenome/PowerGenome) project.
+* **[@grgmiller](https://github.com/grgmiller)** at UC Davis through the EPA's [EmPOWER Air Data Challenge](https://www.epa.gov/airmarkets/empower-air-data-challenge).
+* **[@raininthesun](https://github.com/raininthesun)** and the [Chu Data Lab](https://chu-data-lab.cc.gatech.edu/) at Georgia Tech.
 * [DSIRE at North Carolina State University](https://www.dsireusa.org/)
 
-## Some of our organizational friends :revolving_hearts:
+## Organizational Friends & Allies :revolving_hearts:
 
 * [The Environmental and Data Governance Initiative](https://envirodatagov.org/) (EDGI)
 * [CarbonPlan](https://carbonplan.org/)
@@ -102,7 +102,6 @@ frequently collaborate with open source contributors.
 * [2i2c: The International Interactive Computing Consortium](https://2i2c.org/)
 * [The Open Collective Foundation](https://opencollective.foundation/)
 * [GridLab](https://gridlab.org/)
-* [Energy Innovation, LLC](https://energyinnovation.org/)
 * [The Open Energy Modeling Initiative](https://openmod-initiative.org/)
 * [The Open Energy Outlook](https://github.com/TemoaProject/oeo)
 * [Code for Science & Society](https://codeforscience.org/)
@@ -111,33 +110,44 @@ frequently collaborate with open source contributors.
 ## Current & Past Funders and Clients :moneybag: :dollar:
 
 * [The Alfred P. Sloan Foundation Energy & Environment Program](https://sloan.org/programs/research/energy-and-environment)
-* [Climate Change AI](https://www.climatechange.ai/)
-* [Flora Family Foundation](https://www.florafamily.org/)
 * [RMI](https://rmi.org/)
+* [Climate Change AI](https://www.climatechange.ai/)
+* [Carbon Tracker](https://carbontracker.org)
+* [Climate Policy Initiative](https://www.climatepolicyinitiative.org/)
+* [Energy Innovation](https://energyinnovation.org/)
+* [Lawrence Berkeley Lab Energy Technologies Area](https://eta.lbl.gov/)
 * [Invenia Labs](https://www.invenia.ca/)
 * [Western Interstate Energy Board](https://www.westernenergyboard.org/)
+* [Flora Family Foundation](https://www.florafamily.org/)
 
 ## Business and Employment :evergreen_tree: :evergreen_tree:
 
-Catalyst is a [democratically goverened worker cooperative](https://institute.coop/) and
-a member of the [US Federation of Worker Cooperatives](https://usworker.coop).
-We exist to help our members earn a decent living while working for a more just,
-livable, and sustainable world. Members have a high degree of autonomy and flexibility
-to determine their own work-life balance. Catalyst is an entirely remote organization,
-with members scattered across North America from Alaska to Mexico. Our income comes
-from a mix of grant funding and client work.
+Catalyst is a [democratic workplace](https://institute.coop/) and a member of the [US
+Federation of Worker Cooperatives](https://usworker.coop). We exist to help our members
+earn a decent living while working for a more just, livable, and sustainable world. Our
+income comes from a mix of grant funding and client work. We only work with
+mission-aligned clients.
 
-Members are compensated through:
+We are an entirely remote organization, and have been since well before the coronavirus 
+pandemic. Our members are scattered all across North America from Alaska to Mexico. We
+enjoy a great deal of autonomy and flexibility in determining our own work-life balance
+and schedules. Membership entails working a minimum of 1000 hours each year for the
+co-op.
 
-* An hourly wage
-* Employer contributions to our retirement plan (proportional to annual wages)
-* Annual patronage dividends (proportional to hours worked)
+As a small 100% employee-owned cooperative, we are able to compensate members through an
+unusual mix of wages and profit sharing, including:
 
-We also reimburse members for expenses related to maintaining their home office, and
+* An hourly wage (currently $36.75/hr)
+* Tax-deferred employer retirement plan contributions (proportional to wages, up to 25%
+  of wages)
+* Tax-advantaged patronage dividends (proportional to hours worked, unlimited but
+  subject to profitability)
+
+We also reimburse ourselves for expenses related to maintaining a home office, and
 provide a monthly health insurance stipend.
 
-Candidates must do at least 500 hours of contract work for the cooperative over
-six months prior to being considered for membership.
+Candidates must do at least 500 hours of contract work for the cooperative within over
+six months, at which point they will be considered for membership.
 
 **[Check our website to see if we're recruiting new
 members](https://catalyst.coop/work-with-us/)**.
