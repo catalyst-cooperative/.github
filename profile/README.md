@@ -26,7 +26,7 @@ frequently collaborate with open source contributors.
 * Follow us on Twitter: [@CatalystCoop](https://twitter.com/CatalystCoop)
 * More info on our website: https://catalyst.coop
 
-## Services
+## Services We Provide
 * Programmatic acquisition, cleaning, and integration of public data sources.
 * Data oriented software development.
 * Compilation of new machine-readable data sources from regulatory filings, legislation,
@@ -36,7 +36,8 @@ frequently collaborate with open source contributors.
 * Translation of existing ad-hoc data wrangling workflows into replicable data pipelines
   written in Python.
 
-## Tools we use :hammer: :wrench:
+## Tools We Use :hammer: :wrench:
+
 * [Python](https://www.python.org/) is our primary language for everything.
 * [Pandas](https://pandas.pydata.org/) the swiss army knife of tabular data manipulation
   in Python.
@@ -73,7 +74,8 @@ frequently collaborate with open source contributors.
 * We use [GitHub Actions](https://docs.github.com/en/actions) to run our continuous
   integration and coordinate our nightly builds and data scraping jobs.
 
-## Tools we're studying :construction:
+## Tools We're Studying :construction:
+
 * [duckdb](https://duckdb.org/) as a performant, columnar, analysis oriented alternative
   to SQLite.
 * [dbt](https://www.getdbt.com/) to manage pure SQL data transformations where
@@ -88,10 +90,13 @@ frequently collaborate with open source contributors.
   database schema definitions with [SQLAlchemy](https://www.sqlalchemy.org/).
 
 ## Research Collaborators :brain:
+
 * **[@gschivley](https://github.com/gschivley)** and the [PowerGenome](https://github.com/PowerGenome/PowerGenome) project.
 * **[@grgmiller](https://github.com/grgmiller)** at UC Davis through the EPA's [EmPOWER Air Data Challenge](https://www.epa.gov/airmarkets/empower-air-data-challenge).
 * **[@raininthesun](https://github.com/raininthesun)** and the [Chu Data Lab](https://chu-data-lab.cc.gatech.edu/) at Georgia Tech.
-* [DSIRE at North Carolina State University](https://www.dsireusa.org/)
+* [DSIRE](https://www.dsireusa.org/) at North Carolina State University
+* [Singularity Energy](https://singularity.energy/) and their [Open Grid Emissions
+  Initiative](https://medium.com/singularity-energy/introducing-the-open-grid-emissions-initiative-42f68f3b3f49)
 
 ## Organizational Friends & Allies :revolving_hearts:
 
@@ -107,7 +112,7 @@ frequently collaborate with open source contributors.
 * [Code for Science & Society](https://codeforscience.org/)
 * [Technology Cooperatives Everywhere!](https://tech-coops.xyz/)
 
-## Current & Past Funders and Clients :moneybag: :dollar:
+## Past Funders & Clients :moneybag: :dollar:
 
 * [The Alfred P. Sloan Foundation Energy & Environment Program](https://sloan.org/programs/research/energy-and-environment)
 * [RMI](https://rmi.org/)
@@ -119,6 +124,7 @@ frequently collaborate with open source contributors.
 * [Invenia Labs](https://www.invenia.ca/)
 * [Western Interstate Energy Board](https://www.westernenergyboard.org/)
 * [Flora Family Foundation](https://www.florafamily.org/)
+* Carbon Impact Consulting
 
 ## Business and Employment :evergreen_tree: :evergreen_tree:
 
