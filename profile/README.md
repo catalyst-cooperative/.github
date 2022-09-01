@@ -126,7 +126,7 @@ frequently collaborate with open source contributors.
 * [Flora Family Foundation](https://www.florafamily.org/)
 * Carbon Impact Consulting
 
-## Business and Employment :evergreen_tree: :evergreen_tree:
+## Business & Employment :evergreen_tree: :evergreen_tree:
 
 Catalyst is a [democratic workplace](https://institute.coop/) and a member of the [US
 Federation of Worker Cooperatives](https://usworker.coop). We exist to help our members
