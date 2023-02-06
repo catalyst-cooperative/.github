@@ -1,0 +1,20 @@
+body:
+- type: textarea
+  attributes:
+    label: Problem statement
+    description: What problem would you like to see solved?
+    placeholder: The existing way of thinking about our data processing makes XYZ difficult.
+    validations:
+        required: true
+- type: textarea
+  attributes:
+    label: Initial implementation ideas
+    description: What are some ways you think we could go about this? Do you see any trade-offs between them?
+- type: textarea
+  attributes:
+    label: Fears
+    description: Are there any problems you're worried about running into?
+- type: textarea
+  attributes:
+    label: Open questions
+    description: What things do you definitely need answers on before we dig into implementation?
