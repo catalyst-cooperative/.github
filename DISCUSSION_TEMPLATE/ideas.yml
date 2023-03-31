@@ -1,0 +1,20 @@
+body:
+- type: textarea
+  attributes:
+    label: Summary
+    description: What would you like to be able to do, and why?
+    placeholder: I'd like to be able to persist output tables to the database in a consistent way, so we don't need to run Python code to generate the data!
+    validations:
+        required: true
+- type: textarea
+  attributes:
+    label: Initial implementation ideas
+    description: What are some ways you think we could go about this? Do you see any trade-offs between them?
+- type: textarea
+  attributes:
+    label: Fears
+    description: Are there any problems you're worried about running into?
+- type: textarea
+  attributes:
+    label: Open questions
+    description: What things do you definitely need answers on before we dig into implementation?
