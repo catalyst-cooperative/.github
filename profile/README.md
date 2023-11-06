@@ -25,7 +25,10 @@ frequently collaborate with open source contributors.
   ideas for improvement, or need to get some personalized support? [Join us for Office
   Hours](https://calend.ly/catalyst-cooperative/pudl-office-hours)
 - Follow us on Twitter: [@CatalystCoop](https://twitter.com/CatalystCoop)
-- More info on our website: https://catalyst.coop
+- Follow us on Mastodon: [@CatalystCoop@mastodon.energy](https://mastodon.energy/@CatalystCoop)
+- Play with our data and notebooks [on Kaggle](https://www.kaggle.com/catalystcooperative)
+- Combine our data with ML models [on HuggingFace](https://huggingface.co/catalystcooperative)
+- Learn more about us on our website: https://catalyst.coop
 
 ## Services We Provide
 
