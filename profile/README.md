@@ -11,7 +11,7 @@ Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
 If you're interested in [hiring us](https://catalyst.coop/hire-catalyst)
 Email [hello@catalyst.coop](mailto:hello@catalyst.coop). Our current rate is
-**$150/hr**. We can often make acommodations for smaller/grassroots organizations and
+**$155/hr**. We can often make acommodations for smaller/grassroots organizations and
 frequently collaborate with open source contributors.
 
 ## Contact Us :love_letter:
