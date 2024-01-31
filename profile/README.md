@@ -10,7 +10,7 @@ License](https://opensource.org/licenses/MIT), and our data products under the [
 Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
 If you're interested in [hiring us](https://catalyst.coop/hire-catalyst)
-Email [hello@catalyst.coop](mailto:hello@catalyst.coop). Our current rate is
+email [hello@catalyst.coop](mailto:hello@catalyst.coop). Our current rate is
 **$155/hr**. We can often make acommodations for smaller/grassroots organizations and
 frequently collaborate with open source contributors.
 
