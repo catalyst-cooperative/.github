@@ -1,4 +1,4 @@
-# Contributing to PUDL Archiver
+# Contributing to PUDL
 
 Welcome! We're excited to have you contribute to the project!
 
