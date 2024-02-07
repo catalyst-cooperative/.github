@@ -56,17 +56,22 @@ frequently collaborate with open source contributors.
   visualizations.
 - [Pydantic](https://pydantic-docs.helpmanual.io/) for managing and validating settings
   and our collection of metadata.
-- [Scikit Learn](https://scikit-learn.org/) for entity matching between datasets and
-  imputation of missing data.
+- [Scikit Learn](https://scikit-learn.org/) to construct machine learning pipelines.
+- [Splink](https://github.com/moj-analytical-services/splink) for fast, generalized
+  entity matching.
 - [Google BigQuery](https://cloud.google.com/bigquery) to warehouse finished data
   products for live access.
+- [Google Batch](https://cloud.google.com/batch/) to miniimize the infrastructure we
+  need to manage for our nightly builds.
+- [Pandera](https://pandera.readthedocs.io/) to specifiy dataframe schemas and data
+  validations in conjunction with Dagster.
+- [Hypothesis](https://hypothesis.readthedocs.io/) for more robust data-oriented unit
+  testing.
 - [Zenodo](https://zenodo.org/communities/catalyst-cooperative/) provides long-term,
   programmatically accessible, versioned archives of all our raw inputs.
 - [Sphinx](https://www.sphinx-doc.org/) for building [our
   documentation](https://catalystcoop-pudl.readthedocs.io/en/latest/), incorporating
   much of our structured metadata directly using Jinja templates.
-- [Tox](https://tox.wiki/) and [pytest](https://docs.pytest.org) manage our testing
-  environment and define our unit, integration, and data validation tests.
 - The [Frictionless Framework](https://framework.frictionlessdata.io/) as a standard
   interchange model for tabular data.
 - [Tableau](https://www.tableau.com/) for producing dashboards and interactive data
@@ -81,27 +86,25 @@ frequently collaborate with open source contributors.
 
 - [duckdb](https://duckdb.org/) as a performant, columnar, analysis oriented alternative
   to SQLite.
-- [dbt](https://www.getdbt.com/) to manage pure SQL data transformations where
-  appropriate within our larger Python based workflows.
-- [Pandera](https://pandera.readthedocs.io/) to specifiy dataframe schemas and data
-  validations in conjunction with Dagster.
-- [Hypothesis](https://hypothesis.readthedocs.io/) for more robust data-oriented unit
-  testing.
-- [Apache Superset](https://superset.apache.org/) as an open source alternative to
-  Tableau.
+- [Pixi](https://github.com/prefix-dev/pixi), a fast, ergonomic conda package management
+  command line tool.
+- [Evidence](https://evidence.dev/), [Rill](https://www.rilldata.com/),
+  [Apache Superset](https://superset.apache.org/), and [Streamlit](https://streamlit.io/)
+  as open source BI tools that play nice with revision control.
 - [SQLModel](https://sqlmodel.tiangolo.com/) to more easily unify our metadata and
   database schema definitions with [SQLAlchemy](https://www.sqlalchemy.org/).
+- [dbt](https://www.getdbt.com/) to manage pure SQL data transformations where
+  appropriate within our larger Python based workflows.
 
-## Research Collaborators :brain:
+## Adjacent Projects :brain:
 
-- **[@gschivley](https://github.com/gschivley)** and the [PowerGenome](https://github.com/PowerGenome/PowerGenome) project.
-- **[@grgmiller](https://github.com/grgmiller)** at UC Davis through the EPA's [EmPOWER Air Data Challenge](https://www.epa.gov/airmarkets/empower-air-data-challenge).
-- **[@raininthesun](https://github.com/raininthesun)** and the [Chu Data Lab](https://chu-data-lab.cc.gatech.edu/) at Georgia Tech.
+- [GridStatus](https://github.com/kmax12/gridstatus)
+- [Interconnection.fyi](https://www.interconnection.fyi/)
+- [GridEmissions](https://gridemissions.jdechalendar.su.domains/#/about)
+- [PowerGenome](https://github.com/PowerGenome/PowerGenome) from [@gschivley](https://github.com/gschivley)
+- [The Open Grid Emissions Initiative](https://github.com/singularity-energy/open-grid-emissions)
+  from [@grgmiller](https://github.com/grgmiller) & [Singularity Energy](https://singularity.energy/)
 - [DSIRE](https://www.dsireusa.org/) at North Carolina State University
-- [Singularity Energy](https://singularity.energy/) and their [Open Grid Emissions
-  Initiative](https://github.com/singularity-energy/open-grid-emissions) ([blog
-  announcing the
-  project](https://medium.com/singularity-energy/introducing-the-open-grid-emissions-initiative-42f68f3b3f49))
 
 ## Organizational Friends & Allies :revolving_hearts:
 
@@ -109,20 +112,22 @@ frequently collaborate with open source contributors.
 - [CarbonPlan](https://carbonplan.org/)
 - [Diagonal Works](https://diagonal.works/)
 - [The Open Knowledge Foundation](https://okfn.org/)
+- [Open Energy Transition](https://openenergytransition.org/)
 - [2i2c: The International Interactive Computing Consortium](https://2i2c.org/)
 - [The Open Collective Foundation](https://opencollective.foundation/)
-- [GridLab](https://gridlab.org/)
 - [The Open Energy Modeling Initiative](https://openmod-initiative.org/)
 - [The Open Energy Outlook](https://github.com/TemoaProject/oeo)
 - [Code for Science & Society](https://codeforscience.org/)
 - [The US Research Software Engineering Association](https://us-rse.org)
 - [Technology Cooperatives Everywhere!](https://tech-coops.xyz/)
 
-## Past Funders & Clients :moneybag: :dollar:
+## Funders & Clients :moneybag: :dollar:
 
 - [The Alfred P. Sloan Foundation Energy & Environment Program](https://sloan.org/programs/research/energy-and-environment)
 - [RMI](https://rmi.org/)
+- [GridLab](https://gridlab.org/)
 - [Climate Change AI](https://www.climatechange.ai/)
+- [The Mozilla Foundation](https://foundation.mozilla.org/en/)
 - [Carbon Tracker](https://carbontracker.org)
 - [Climate Policy Initiative](https://www.climatepolicyinitiative.org/)
 - [Energy Innovation](https://energyinnovation.org/)
@@ -131,7 +136,6 @@ frequently collaborate with open source contributors.
 - [Western Interstate Energy Board](https://www.westernenergyboard.org/)
 - [Flora Family Foundation](https://www.florafamily.org/)
 - [The Deployment Gap Education Fund](https://www.deploymentgap.fund/)
-- Carbon Impact Consulting
 
 ## Business & Employment :evergreen_tree: :evergreen_tree:
 
