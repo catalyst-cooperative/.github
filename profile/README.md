@@ -104,21 +104,22 @@ frequently collaborate with open source contributors.
 - [PowerGenome](https://github.com/PowerGenome/PowerGenome) from [@gschivley](https://github.com/gschivley)
 - [The Open Grid Emissions Initiative](https://github.com/singularity-energy/open-grid-emissions)
   from [@grgmiller](https://github.com/grgmiller) & [Singularity Energy](https://singularity.energy/)
+- [Pangeo Forge](https://pangeo-forge.org/)
 - [DSIRE](https://www.dsireusa.org/) at North Carolina State University
 
 ## Organizational Friends & Allies :revolving_hearts:
 
-- [The Environmental and Data Governance Initiative](https://envirodatagov.org/) (EDGI)
-- [CarbonPlan](https://carbonplan.org/)
-- [Diagonal Works](https://diagonal.works/)
-- [The Open Knowledge Foundation](https://okfn.org/)
+- [The Open Energy Modeling Initiative](https://openmod-initiative.org/)
 - [Open Energy Transition](https://openenergytransition.org/)
+- [CarbonPlan](https://carbonplan.org/)
+- [The Open Knowledge Foundation](https://okfn.org/)
 - [2i2c: The International Interactive Computing Consortium](https://2i2c.org/)
 - [The Open Collective Foundation](https://opencollective.foundation/)
-- [The Open Energy Modeling Initiative](https://openmod-initiative.org/)
 - [The Open Energy Outlook](https://github.com/TemoaProject/oeo)
 - [Code for Science & Society](https://codeforscience.org/)
 - [The US Research Software Engineering Association](https://us-rse.org)
+- [Diagonal Works](https://diagonal.works/)
+- [The Environmental and Data Governance Initiative](https://envirodatagov.org/) (EDGI)
 - [Technology Cooperatives Everywhere!](https://tech-coops.xyz/)
 
 ## Funders & Clients :moneybag: :dollar:
