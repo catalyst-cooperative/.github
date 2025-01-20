@@ -11,7 +11,7 @@ Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 
 If you're interested in [hiring us](https://catalyst.coop/hire-catalyst)
 email [hello@catalyst.coop](mailto:hello@catalyst.coop). Our current rate is
-**$155/hr**. We can often make acommodations for smaller/grassroots organizations and
+**$200/hr**. We can often make acommodations for smaller/grassroots organizations and
 frequently collaborate with open source contributors.
 
 ## Contact Us :love_letter:
@@ -24,8 +24,11 @@ frequently collaborate with open source contributors.
 - Want to schedule a time to chat with us one-on-one about our software or data? Have
   ideas for improvement, or need to get some personalized support? [Join us for Office
   Hours](https://calend.ly/catalyst-cooperative/pudl-office-hours)
-- Follow us on Twitter: [@CatalystCoop](https://twitter.com/CatalystCoop)
+- Follow us on BlueSky: [@catalyst.coop](https://bsky.app/profile/catalyst.coop)
+- Connect with us [on LinkedIn](https://www.linkedin.com/company/catalyst-cooperative/)
 - Follow us on Mastodon: [@CatalystCoop@mastodon.energy](https://mastodon.energy/@CatalystCoop)
+- Follow us on Twitter: [@CatalystCoop](https://x.com/CatalystCoop)
+- Subscribe to [our channel on YouTube](https://youtube.com/@CatalystCooperative)
 - Play with our data and notebooks [on Kaggle](https://www.kaggle.com/catalystcooperative)
 - Combine our data with ML models [on HuggingFace](https://huggingface.co/catalystcooperative)
 - Learn more about us on our website: https://catalyst.coop
@@ -40,12 +43,15 @@ frequently collaborate with open source contributors.
 - Both ad-hoc and replicable production data analysis.
 - Translation of existing ad-hoc data wrangling workflows into replicable data pipelines
   written in Python.
+- Reproducible data pipeline design, implementation, and ongoing maintenance.
 
 ## Tools We Use :hammer: :wrench:
 
 - [Python](https://www.python.org/) is our primary language for everything.
 - [Pandas](https://pandas.pydata.org/) the swiss army knife of tabular data manipulation
   in Python.
+- [duckdb](https://duckdb.org/) as a performant, columnar, analysis oriented embedded database.
+  The SQLite of analytical databases.
 - [Dask](https://www.dask.org/) to scale up data wrangling tasks we do with Pandas
   beyond what can be done in memory.
 - [Dagster](https://dagster.io) for orchestrating and parallelizing our data pipelines.
@@ -58,7 +64,9 @@ frequently collaborate with open source contributors.
   and our collection of metadata.
 - [Scikit Learn](https://scikit-learn.org/) to construct machine learning pipelines.
 - [Splink](https://github.com/moj-analytical-services/splink) for fast, generalized
-  entity matching.
+  entity matching / record linkage.
+- [MLFlow](https://mlflow.org/) for ML experiment and artifact tracking, mostly in the
+  context of our entity matching / record linkage work.
 - [Google BigQuery](https://cloud.google.com/bigquery) to warehouse finished data
   products for live access.
 - [Google Batch](https://cloud.google.com/batch/) to miniimize the infrastructure we
@@ -84,8 +92,8 @@ frequently collaborate with open source contributors.
 
 ## Tools We're Studying :construction:
 
-- [duckdb](https://duckdb.org/) as a performant, columnar, analysis oriented alternative
-  to SQLite.
+- [Perspective](https://perspective.finos.org/) for in-browser data analytics and
+  visualizations.
 - [Pixi](https://github.com/prefix-dev/pixi), a fast, ergonomic conda package management
   command line tool.
 - [Evidence](https://evidence.dev/), [Rill](https://www.rilldata.com/),
@@ -124,6 +132,7 @@ frequently collaborate with open source contributors.
 
 ## Funders & Clients :moneybag: :dollar:
 
+- [The PUDL Sustainers](https://opencollective.com/pudl)
 - [The Alfred P. Sloan Foundation Energy & Environment Program](https://sloan.org/programs/research/energy-and-environment)
 - [RMI](https://rmi.org/)
 - [GridLab](https://gridlab.org/)
