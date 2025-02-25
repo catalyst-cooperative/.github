@@ -69,7 +69,7 @@ frequently collaborate with open source contributors.
   context of our entity matching / record linkage work.
 - [Google BigQuery](https://cloud.google.com/bigquery) to warehouse finished data
   products for live access.
-- [Google Batch](https://cloud.google.com/batch/) to miniimize the infrastructure we
+- [Google Batch](https://cloud.google.com/batch/) to minimize the infrastructure we
   need to manage for our nightly builds.
 - [Pandera](https://pandera.readthedocs.io/) to specifiy dataframe schemas and data
   validations in conjunction with Dagster.
