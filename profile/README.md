@@ -122,7 +122,6 @@ frequently collaborate with open source contributors.
 - [CarbonPlan](https://carbonplan.org/)
 - [The Open Knowledge Foundation](https://okfn.org/)
 - [2i2c: The International Interactive Computing Consortium](https://2i2c.org/)
-- [The Open Collective Foundation](https://opencollective.foundation/)
 - [The Open Energy Outlook](https://github.com/TemoaProject/oeo)
 - [Code for Science & Society](https://codeforscience.org/)
 - [The US Research Software Engineering Association](https://us-rse.org)
