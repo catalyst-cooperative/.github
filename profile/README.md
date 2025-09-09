@@ -26,9 +26,10 @@ for smaller/grassroots organizations and frequently collaborate with open source
 - Follow us on BlueSky: [@catalyst.coop](https://bsky.app/profile/catalyst.coop)
 - Connect with us [on LinkedIn](https://www.linkedin.com/company/catalyst-cooperative/)
 - Follow us on Mastodon: [@CatalystCoop@mastodon.energy](https://mastodon.energy/@CatalystCoop)
-- Follow us on Twitter: [@CatalystCoop](https://x.com/CatalystCoop)
+- Follow us on Twitter: [@CatalystCoop](https://x.com/CatalystCoop) (deprecated)
 - Subscribe to [our channel on YouTube](https://youtube.com/@CatalystCooperative)
 - Play with our data and notebooks [on Kaggle](https://www.kaggle.com/catalystcooperative)
+- Preview, filter, and download our data via web using the [PUDL Data Viewer](https://viewer.catalyst.coop/)
 - Combine our data with ML models [on HuggingFace](https://huggingface.co/catalystcooperative)
 - Learn more about us on our website: https://catalyst.coop
 
@@ -91,17 +92,17 @@ for smaller/grassroots organizations and frequently collaborate with open source
 
 ## Tools We're Studying :construction:
 
-- [Perspective](https://perspective.finos.org/) for in-browser data analytics and
-  visualizations.
 - [Pixi](https://github.com/prefix-dev/pixi), a fast, ergonomic conda package management
   command line tool.
-- [Evidence](https://evidence.dev/), [Rill](https://www.rilldata.com/),
-  [Apache Superset](https://superset.apache.org/), and [Streamlit](https://streamlit.io/)
-  as open source BI tools that play nice with revision control.
-- [SQLModel](https://sqlmodel.tiangolo.com/) to more easily unify our metadata and
-  database schema definitions with [SQLAlchemy](https://www.sqlalchemy.org/).
-- [dbt](https://www.getdbt.com/) to manage pure SQL data transformations where
-  appropriate within our larger Python based workflows.
+- [Marimo Notebooks](https://docs.marimo.io/) for interactive web-apps and data
+  visualizations.
+- [Polars Dataframes](https://docs.pola.rs/) for working with larger data tables that
+  don't fit into memory, or are computationally intensive.
+- [Material for MkDocs](https://mrkeo.github.io/) a beautiful alternative to ReST & Sphinx.
+- [OpenSearch](https://docs.opensearch.org/docs/latest/) for processing, indexing, and
+  programmatically managing large troves of unstructrured documents.
+- [HuggingFace Hub](https://huggingface.co/docs/hub/) as another platform for distributing
+  larger datasets and pre-trained machine-learning models specific to energy system data.
 
 ## Adjacent Projects :brain:
 
@@ -113,12 +114,16 @@ for smaller/grassroots organizations and frequently collaborate with open source
   from [@grgmiller](https://github.com/grgmiller) & [Singularity Energy](https://singularity.energy/)
 - [Pangeo Forge](https://pangeo-forge.org/)
 - [DSIRE](https://www.dsireusa.org/) at North Carolina State University
-
+- [Map Your Grid](https://mapyourgrid.org/) a project of @open-energy-transition and
+  the @openstreetmap to crowdsource a map of the world's electricity infrastructure for use in
+  open modeling.
+  
 ## Organizational Friends & Allies :revolving_hearts:
 
 - [The Open Energy Modeling Initiative](https://openmod-initiative.org/)
 - [Open Energy Transition](https://openenergytransition.org/)
 - [CarbonPlan](https://carbonplan.org/)
+- The [Public Environmental Data Partnership](https://screening-tools.com/)
 - [The Open Knowledge Foundation](https://okfn.org/)
 - [2i2c: The International Interactive Computing Consortium](https://2i2c.org/)
 - [The Open Energy Outlook](https://github.com/TemoaProject/oeo)
