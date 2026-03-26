@@ -36,73 +36,47 @@ for smaller/grassroots organizations and frequently collaborate with open source
 ## Services We Provide
 
 - Programmatic acquisition, cleaning, and integration of public data sources.
-- Data oriented software development.
-- Compilation of new machine-readable data sources from regulatory filings, legislation,
-  and other public information.
+- Data-oriented software development.
+- Compilation of new machine-readable data sources from regulatory filings, legislation, and other public information.
 - Data warehousing and dashboard development.
 - Both ad-hoc and replicable production data analysis.
-- Translation of existing ad-hoc data wrangling workflows into replicable data pipelines
-  written in Python.
+- Translation of existing ad-hoc data wrangling workflows into replicable data pipelines written in Python.
 - Reproducible data pipeline design, implementation, and ongoing maintenance.
 
 ## Tools We Use :hammer: :wrench:
 
 - [Python](https://www.python.org/) is our primary language for everything.
-- [Pandas](https://pandas.pydata.org/) the swiss army knife of tabular data manipulation
-  in Python.
-- [duckdb](https://duckdb.org/) as a performant, columnar, analysis oriented embedded database.
-  The SQLite of analytical databases.
-- [Dask](https://www.dask.org/) to scale up data wrangling tasks we do with Pandas
-  beyond what can be done in memory.
+- [Pandas](https://pandas.pydata.org/) the swiss army knife of tabular data manipulation in Python.
 - [Dagster](https://dagster.io) for orchestrating and parallelizing our data pipelines.
-- [SQLite](https://www.sqlite.org/) for local storage and distribution of tabular,
-  relational data.
+- [DuckDB](https://duckdb.org/) as a performant, columnar, analysis oriented embedded database. The SQLite of analytical databases.
+- [Flask](https://flask.palletsprojects.com/) for building web-apps like the [PUDL Data Viewer](https://data.catalyst.coop)
+- [Pixi](https://github.com/prefix-dev/pixi), a fast, ergonomic conda package management command line tool.
+- [Marimo Notebooks](https://docs.marimo.io/) for interactive dashboads and data exploration.
+- [Polars Dataframes](https://docs.pola.rs/) for working with larger data tables that don't fit into memory, or are computationally intensive.
 - [Apache Parquet](https://parquet.apache.org/) to persist larger data tables to disk.
-- [JupyterLab](https://jupyter.org/) for interactive data wrangling, exploration, and
-  visualizations.
-- [Pydantic](https://pydantic-docs.helpmanual.io/) for managing and validating settings
-  and our collection of metadata.
+- [Pydantic](https://pydantic-docs.helpmanual.io/) for managing and validating settings and our collection of metadata.
+- [Pandera](https://pandera.readthedocs.io/) to specifiy dataframe schemas and data validations in conjunction with Dagster.
+- [Pyodide](https://pyodide.org) to let users access and play with our data in-browser.
+- [SQLite](https://www.sqlite.org/) for local storage and distribution of tabular, relational data.
+- [JupyterLab](https://jupyter.org/) for interactive data wrangling, exploration, and visualizations.
 - [Scikit Learn](https://scikit-learn.org/) to construct machine learning pipelines.
-- [Splink](https://github.com/moj-analytical-services/splink) for fast, generalized
-  entity matching / record linkage.
-- [MLFlow](https://mlflow.org/) for ML experiment and artifact tracking, mostly in the
-  context of our entity matching / record linkage work.
-- [Google BigQuery](https://cloud.google.com/bigquery) to warehouse finished data
-  products for live access.
-- [Google Batch](https://cloud.google.com/batch/) to minimize the infrastructure we
-  need to manage for our nightly builds.
-- [Pandera](https://pandera.readthedocs.io/) to specifiy dataframe schemas and data
-  validations in conjunction with Dagster.
-- [Hypothesis](https://hypothesis.readthedocs.io/) for more robust data-oriented unit
-  testing.
-- [Zenodo](https://zenodo.org/communities/catalyst-cooperative/) provides long-term,
-  programmatically accessible, versioned archives of all our raw inputs.
-- [Sphinx](https://www.sphinx-doc.org/) for building [our
-  documentation](https://catalystcoop-pudl.readthedocs.io/en/latest/), incorporating
-  much of our structured metadata directly using Jinja templates.
-- The [Frictionless Framework](https://framework.frictionlessdata.io/) as a standard
-  interchange model for tabular data.
-- [Tableau](https://www.tableau.com/) for producing dashboards and interactive data
-  visualizations for client projects.
-- [VS Code](https://code.visualstudio.com/) is our primary main code editor, ever more
-  deeply integrated with GitHub.
+- [Splink](https://github.com/moj-analytical-services/splink) for fast, generalized entity matching / record linkage.
+- [MLFlow](https://mlflow.org/) for ML experiment and artifact tracking, mostly in the context of our entity matching / record linkage work.
+- [Google Batch](https://cloud.google.com/batch/) to minimize the infrastructure we need to manage for our nightly builds.
+- [Hypothesis](https://hypothesis.readthedocs.io/) for more robust data-oriented unit testing.
+- [Zenodo](https://zenodo.org/communities/catalyst-cooperative/) provides long-term, programmatically accessible, versioned archives of all our raw inputs.
+- [Sphinx](https://www.sphinx-doc.org/) for building [our documentation](https://catalystcoop-pudl.readthedocs.io/), incorporating much of our structured metadata directly using Jinja templates.
+- The [Frictionless Framework](https://framework.frictionlessdata.io/) as a standard interchange model for tabular data.
+- [VS Code](https://code.visualstudio.com/) is our primary main code editor, ever more deeply integrated with GitHub.
 - [pre-commit](https://pre-commit.com/) to enforce code formatting and style standards.
-- We use [GitHub Actions](https://docs.github.com/en/actions) to run our continuous
-  integration and coordinate our nightly builds and data scraping jobs.
+- [GitHub Actions](https://docs.github.com/en/actions) to run our continuous integration and coordinate our nightly builds and data scraping jobs.
 
 ## Tools We're Studying :construction:
 
-- [Pixi](https://github.com/prefix-dev/pixi), a fast, ergonomic conda package management
-  command line tool.
-- [Marimo Notebooks](https://docs.marimo.io/) for interactive web-apps and data
-  visualizations.
-- [Polars Dataframes](https://docs.pola.rs/) for working with larger data tables that
-  don't fit into memory, or are computationally intensive.
-- [Material for MkDocs](https://mrkeo.github.io/) a beautiful alternative to ReST & Sphinx.
-- [OpenSearch](https://docs.opensearch.org/docs/latest/) for processing, indexing, and
-  programmatically managing large troves of unstructrured documents.
-- [HuggingFace Hub](https://huggingface.co/docs/hub/) as another platform for distributing
-  larger datasets and pre-trained machine-learning models specific to energy system data.
+- [Agent Skills](https://agentskills.io) to give LLM-based coding agents dynamic, specialized context.
+- [Zensical](https://zensical.org/) a beautiful, blazing fast static site generator written in Rust.
+- [OpenSearch](https://docs.opensearch.org/docs/latest/) for processing, indexing, and programmatically managing large troves of unstructrured documents.
+- [HuggingFace Hub](https://huggingface.co/docs/hub/) as another platform for distributing larger datasets and pre-trained machine-learning models specific to energy system data.
 
 ## Adjacent Projects :brain:
 
@@ -110,13 +84,8 @@ for smaller/grassroots organizations and frequently collaborate with open source
 - [Interconnection.fyi](https://www.interconnection.fyi/)
 - [GridEmissions](https://gridemissions.jdechalendar.su.domains/#/about)
 - [PowerGenome](https://github.com/PowerGenome/PowerGenome) from [@gschivley](https://github.com/gschivley)
-- [The Open Grid Emissions Initiative](https://github.com/singularity-energy/open-grid-emissions)
-  from [@grgmiller](https://github.com/grgmiller) & [Singularity Energy](https://singularity.energy/)
-- [Pangeo Forge](https://pangeo-forge.org/)
-- [DSIRE](https://www.dsireusa.org/) at North Carolina State University
-- [Map Your Grid](https://mapyourgrid.org/) a project of @open-energy-transition and
-  the @openstreetmap to crowdsource a map of the world's electricity infrastructure for use in
-  open modeling.
+- [The Open Grid Emissions Initiative](https://github.com/singularity-energy/open-grid-emissions) from [@grgmiller](https://github.com/grgmiller) & [Singularity Energy](https://singularity.energy/)
+- [Map Your Grid](https://mapyourgrid.org/) a project of @open-energy-transition and the @openstreetmap to crowdsource a map of the world's electricity infrastructure for use in open modeling.
   
 ## Organizational Friends & Allies :revolving_hearts:
 
@@ -168,10 +137,8 @@ As a small 100% employee-owned cooperative, we are able to compensate members th
 unusual mix of wages and profit sharing, including:
 
 - An hourly wage (currently $36.75/hr)
-- Tax-deferred employer retirement plan contributions (proportional to wages, up to 25%
-  of wages)
-- Tax-advantaged patronage dividends (proportional to hours worked, unlimited but
-  subject to profitability)
+- Tax-deferred employer retirement plan contributions (proportional to wages, up to 25% of wages)
+- Tax-advantaged patronage dividends (proportional to hours worked, unlimited but subject to profitability)
 
 We also reimburse ourselves for expenses related to maintaining a home office, and
 provide a monthly health insurance stipend.
