@@ -26,7 +26,6 @@ for smaller/grassroots organizations and frequently collaborate with open source
 - Follow us on BlueSky: [@catalyst.coop](https://bsky.app/profile/catalyst.coop)
 - Connect with us [on LinkedIn](https://www.linkedin.com/company/catalyst-cooperative/)
 - Follow us on Mastodon: [@CatalystCoop@mastodon.energy](https://mastodon.energy/@CatalystCoop)
-- Follow us on Twitter: [@CatalystCoop](https://x.com/CatalystCoop) (deprecated)
 - Subscribe to [our channel on YouTube](https://youtube.com/@CatalystCooperative)
 - Play with our data and notebooks [on Kaggle](https://www.kaggle.com/catalystcooperative)
 - Preview, filter, and download our data via web using the [PUDL Data Viewer](https://viewer.catalyst.coop/)
@@ -68,7 +67,7 @@ for smaller/grassroots organizations and frequently collaborate with open source
 - [Sphinx](https://www.sphinx-doc.org/) for building [our documentation](https://catalystcoop-pudl.readthedocs.io/), incorporating much of our structured metadata directly using Jinja templates.
 - The [Frictionless Framework](https://framework.frictionlessdata.io/) as a standard interchange model for tabular data.
 - [VS Code](https://code.visualstudio.com/) is our primary main code editor, ever more deeply integrated with GitHub.
-- [pre-commit](https://pre-commit.com/) to enforce code formatting and style standards.
+- [prek](https://github.com/j178/prek) & [pre-commit](https://pre-commit.com/) to enforce code formatting and style standards.
 - [GitHub Actions](https://docs.github.com/en/actions) to run our continuous integration and coordinate our nightly builds and data scraping jobs.
 
 ## Tools We're Studying :construction:
